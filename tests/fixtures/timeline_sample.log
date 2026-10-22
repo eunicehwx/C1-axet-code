@@ -1,0 +1,10 @@
+2026-10-01T09:00:00Z INFO server up
+2026-10-01T09:01:00Z ERROR db timeout
+2026-10-01T09:05:00Z ERROR db timeout
+2026-10-01T09:14:59Z ERROR cache miss
+2026-10-01T09:15:00Z ERROR cache miss
+2026-10-01T09:20:00Z WARN slow query
+2026-10-01T09:29:59Z ERROR disk full
+2026-10-01T10:00:00Z ERROR disk full
+not a valid line here
+2026-10-01T10:05:00Z INFO server down for maintenance
