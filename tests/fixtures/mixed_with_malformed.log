@@ -1,0 +1,10 @@
+2026-10-01T08:00:00Z INFO Application started
+2026-10-01T08:01:15Z WARN High memory usage detected: 85%
+this line is not a valid log line at all
+2026-10-01T08:02:30Z ERROR Failed to connect to cache server
+
+2026-10-01T08:03:00Z ERROR Failed to connect to cache server
+not-a-timestamp INFO something happened
+2026-10-01T08:04:45Z ERROR Database timeout
+2026-13-99T08:00:00Z INFO invalid calendar date
+2026-10-01T08:05:00Z INFO Request completed
